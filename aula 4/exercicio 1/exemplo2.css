@@ -1,0 +1,54 @@
+*{ /*Seletor para todo*/
+    background-color: pink;
+}
+
+nav a{
+    color:rgb(255, 255, 255);
+    font-size: 16pt;
+    padding: 20px;
+    border: rgb(204, 50, 153) dotted 5px;
+    margin:10px ;
+}
+
+h1{
+    color:black;
+    background-color: #ff8ed5;
+    text-decoration: oklab(lightness a b); 
+    text-align: center; 
+}
+nav{
+    background-color: rgb(218, 142, 189);
+    padding:100px;
+    border:dashed 10px rgb(241, 69, 198);
+    margin: 50px;
+    text-align: center;
+}
+
+header{
+    background-color:#ff8ed5;
+    padding: 20px;
+    border: solid rgb(221, 130, 176) 10px;
+    margin: 20px 200px;
+
+}
+
+
+#main{
+    background-color: rgb(226, 166, 203);
+    padding: 10px 20px;
+    border: double rgb(218, 82, 138) 5px;
+    margin:50px;
+}
+
+p{
+    background-color:rgb(226, 166, 203); 
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+footer{
+    padding: 50px 100px 25px 200px;
+}

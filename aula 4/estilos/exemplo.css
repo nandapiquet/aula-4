@@ -1,0 +1,91 @@
+*{ /*Seletor para todo*/
+    background-color: cornflowerblue;
+}
+
+img {
+    height:150px;
+    width:250px;
+}
+
+h1,h2,h3,h4{
+    color:crimson;
+    text-decoration: overline; 
+    text-align: center; 
+}
+
+p strong {
+    color:chartreuse;
+    font-size: 48pt;
+    font-family: 'Arial';
+}
+
+p em {
+    color:blueviolet;
+    font-size: 28pt;
+    font-family:'Verdana';
+}
+
+p mark{
+    background-color: fuchsia;
+    color:black;
+
+}
+
+p.teste{
+    background-color: white;
+    color:black;
+    font-size:16pt;
+}
+
+.generica{
+    background-color: black;
+    color:white;
+    font-size: 70pt;
+}
+
+#paragrafo{
+    /*seletor de ID*/
+    color:brown;
+    font-family: 'Times New Roman';
+    font-size: medium;
+}
+
+#t4{
+    font-size:24pt;
+}
+
+nav a{
+    color:white;
+    font-size: 16pt;
+    padding: 20px;
+    border: darkorchid dotted 10px;
+    margin:10px;
+}
+
+nav{
+    background-color: cadetblue;
+    padding:100px;
+    border:dashed 1px black;
+    margin: 50px;
+}
+
+header{
+    background-color: azure;
+    padding: 50px;
+    border: solid black 5px;
+    margin: 0;
+
+}
+
+#main{
+    background-color: cornsilk;
+    padding: 100px;
+    border: double black 3px;
+    margin:10px;
+}
+
+footer{
+    padding: 50px 100px 25px 200px;
+    margin: ;
+    border: ;
+}

@@ -1,0 +1,31 @@
+*{ /*Seletor para todo*/
+    background-color: cornflowerblue;
+}
+
+img {
+    height:200px;
+    width:350px;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    font-size:40pt;
+    background-color: azure;
+    padding: 50px;
+    border: solid black 5px;
+    margin: 30px 150px;
+}
+
+p {
+    font-color: white;
+
+}
+
+h3 {
+    text-align: center;
+    background-color: #91bcff;
+    padding: 10px  ;
+    border: solid darkblue 5px;
+    margin: 10px 200px;
+}
